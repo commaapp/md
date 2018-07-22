@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <!--<color name="colorPrimary">#00ffffff</color>-->
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhile">#ffffff</color>
+    <color name="button_color">#1d7dfc</color>
+    <color name="colorLater">#b6b6b6</color>
+    <color name="colorStart">#FFFF00</color>
+    <color name="colorCTA">#00CC33</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorBtnCross">#CE352C</color>
+    <color name="text_shadow_white">#000</color>
+    <color name="colorBtnCrossPress">#b9000000</color>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="ts_title_cross">24sp</dimen>
+    <dimen name="ic_cross">100dp</dimen>
+    <dimen name="ts_body_cross">15sp</dimen>
+    <dimen name="ts_btn_cross">18sp</dimen>
+    <dimen name="pading10dp">10dp</dimen>
+    <dimen name="pading6dp">6dp</dimen>
+    <dimen name="pading8dp">8dp</dimen>
+    <string name="app_name">Audience Network me</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="show_ad">Show!</string>
+    <string name="load_rewarded_video">Load Rewarded Video</string>
+</resources>
